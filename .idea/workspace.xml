@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6d642fc-a3e3-42b4-8b44-1eda7ac16116" name="Default Changelist" comment="" />
+    <list default="true" id="d6d642fc-a3e3-42b4-8b44-1eda7ac16116" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/skym/gamesplugin/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/skym/gamesplugin/Fighter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,7 +31,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GamesPlugin2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,6 +81,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1584879175873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584879175873" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1584879064344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584879064344" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584833706734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -92,5 +109,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584833708649" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584879148468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584879148468" />
   </component>
 </project>

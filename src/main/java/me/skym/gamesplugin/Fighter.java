@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 
 public class Fighter {
 
-
+    
     Player player;
     String name;
     Role role;
