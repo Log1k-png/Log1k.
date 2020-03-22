@@ -21,6 +21,7 @@ public class onShootBow implements Listener {
         if(game.isLive() & event.getEntityType().equals(EntityType.PLAYER)) {
 
             event.getEntity().getEquipment().setItemInOffHand(new ItemStack(Material.ARROW, 1));
+            event.getEntity().sendMessage("FEEEEU");
         }
     }
 

@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 
 public class Fighter {
 
-
+    
     Player player;
     String name;
     Role role;
@@ -17,6 +17,7 @@ public class Fighter {
         this.name = player.getDisplayName();
         this.role = new Blade();
         charges = 0;
+        //Salut MAthis
     }
 
     public Player getPlayer() {
