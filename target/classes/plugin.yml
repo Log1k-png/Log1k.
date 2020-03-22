@@ -1,0 +1,4 @@
+name: GamesPlugin
+version: 1.0-SNAPSHOT
+main: me.skym.gamesplugin.GamesPlugin
+api-version: 1.13

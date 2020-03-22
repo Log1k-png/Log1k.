@@ -1,0 +1,4 @@
+name: GamesPlugin
+version: ${project.version}
+main: me.skym.gamesplugin.GamesPlugin
+api-version: 1.13
